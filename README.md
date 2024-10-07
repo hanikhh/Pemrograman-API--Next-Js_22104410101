@@ -38,8 +38,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 |                    |                                                                     |
 | ------------------ | ------------------------------------------------------------------- |
-| **Nama**           | Hanik Hatul Halimah                                   (22104410101) |
+| **Nama**           | Hanik Hatul Halimah                                                 |
+| **NIM**            | 22104410101                                                         |
 | **Kelas**          | TI B                                                                |
 | **Semester**       | 5                                                                   |
 | **Mata Kuliah**    | Pemrograman API                                                     |
-| **Dosen Pengampu** | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/mrhmt80) |
+| **Dosen Pengampu** | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://fariedrahmat.github.io/) |
